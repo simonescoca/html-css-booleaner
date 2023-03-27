@@ -17,7 +17,7 @@ main > h1.title{
     margin-bottom: 5px;
 }
 
-main > div.title-details{
+main > div.title-details, footer > div.advertisement{
     font-size: 2.2rem;
     color: gray;
     margin-bottom: 20px;
@@ -66,4 +66,9 @@ td.white-background{
 main > table td.box-width{
     width: 50%;
     text-align: left;
+}
+
+footer > img{
+    display: block;
+    margin-bottom: 10px;
 }
