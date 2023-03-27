@@ -38,3 +38,11 @@ main > img.foto{
 div.photo-description{
     font-size: 1.5rem;
 }
+
+.normal-size-text{
+    font-size: 2.2rem;
+}
+
+main span.yellow-highlighter{
+    background-color: yellow;
+}
