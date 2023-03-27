@@ -30,3 +30,11 @@ div.title-details > span.blue-text{
 div.title-details > span.small-text{
     font-size: 1.5rem;
 }
+
+main > img.foto{
+    height: 600px;
+}
+
+div.photo-description{
+    font-size: 1.5rem;
+}
