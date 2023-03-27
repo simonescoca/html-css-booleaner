@@ -11,3 +11,22 @@ header > img.logo{
     bottom: 0;
     left: 0;
 }
+
+main > h1.title{
+    font-size: 4.5rem;
+    margin-bottom: 5px;
+}
+
+main > div.title-details{
+    font-size: 2.2rem;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+div.title-details > span.blue-text{
+    color: rgb(30, 135, 255);
+}
+
+div.title-details > span.small-text{
+    font-size: 1.5rem;
+}
