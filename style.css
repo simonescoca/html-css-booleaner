@@ -49,6 +49,7 @@ main span.yellow-highlighter{
 
 main > table{
     text-align: center;
+    border-spacing: 0;
 }
 
 table th{
